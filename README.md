@@ -1,6 +1,4 @@
 # Linear_regresion
-Okay, I've reviewed the repository at [https://github.com/Devanshu-Chauhan-955/Linear_regresion](https://github.com/Devanshu-Chauhan-955/Linear_regresion). Here's an engaging and to-the-point README.md for that repository:
-
 ---
 
 # 📈 Unveiling Relationships: Your Journey with Linear Regression
